@@ -164,8 +164,6 @@ $(function () {
 				filters = {};
 				checkboxes.prop('checked',false);// retrieve property values
 
-				renderProductsPage(products);
-			},
 
 			// Single Products page.
 			'#product': function() {

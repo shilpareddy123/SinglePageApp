@@ -1,0 +1,17 @@
+{
+  "name": "single-page-app",
+  "homepage": "https://github.com/shilpareddy123/SinglePageApp",
+  "authors": [
+    "shilpareddy123 <shilpareddy.2793@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
